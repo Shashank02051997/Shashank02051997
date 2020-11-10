@@ -5,6 +5,8 @@
 - 🔭 &nbsp;&nbsp; I’m currently working on [Sell.Do Android app](https://play.google.com/store/apps/details?id=com.amura.selldo).
 - 🌱 &nbsp;&nbsp; I’m currently trying to learn [Jetpack Compose](https://developer.android.com/jetpack/compose).
 - 💬 &nbsp;&nbsp; Ask me about Android and Flutter.
+- 📫 How to reach me **shashanksinghal02@gmail.com**
+- ⚡ Fun fact: I spend almost 2 hours surfing new things in internet everyday. I love to keep myself updated!!
 
 ### Me on Internet:
 
