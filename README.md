@@ -1,5 +1,10 @@
 ### Hi, I'm [Shashank Singhal](https://shashank02051997.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+*An enthusiastic Programmer | Google Certified Android Developer| Web Developer | Freelancer | Open Source lover*
+<!--
+**Ratheshprabakar/Ratheshprabakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 ![](https://komarev.com/ghpvc/?username=Shashank02051997&color=brightgreen&style=flat)
 
 - 🔭 &nbsp;&nbsp; I’m currently working on [Sell.Do Android app](https://play.google.com/store/apps/details?id=com.amura.selldo).
