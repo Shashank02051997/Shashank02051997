@@ -7,10 +7,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Shashank02051997&color=brightgreen&style=flat)
 
-- 🌱 &nbsp;&nbsp; I’m currently trying to learn [Jetpack Compose](https://developer.android.com/jetpack/compose) and [Kotlin Multiplatform Mobile](https://kotlinlang.org/lp/mobile/).
+- 🌱 I’m currently trying to learn [Jetpack Compose](https://developer.android.com/jetpack/compose) and [Kotlin Multiplatform Mobile](https://kotlinlang.org/lp/mobile/).
 - 🔭 I’m currently working on **some of my side projects :P**
 - 👯 I’m looking to collaborate on **anything free and open source**
-- 💬 &nbsp;&nbsp; Ask me about Android and Flutter.
+- 💬 Ask me about Android and Flutter.
 - 📫 How to reach me **shashanksinghal02@gmail.com**
 - ⚡ Fun fact: I spend almost 2 hours surfing new things in internet everyday. I love to keep myself updated!!
 
