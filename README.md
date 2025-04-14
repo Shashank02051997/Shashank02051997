@@ -1,15 +1,13 @@
 ### Hi, I'm [Shashank Singhal](https://shashank02051997.github.io/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-*An enthusiastic Programmer | Google Certified Android Developer| Web Developer | Freelancer | Open Source lover*
+*An enthusiastic Programmer | Full-Stack Web Developer | Freelancer | React.js | Node.js | Nest.js | Microservices | JavaScript | TypeScript | SQL | NoSQL | REST APIs  | Open Source lover*
 
 ![](https://komarev.com/ghpvc/?username=Shashank02051997&color=brightgreen&style=flat)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently trying to learn [Jetpack Compose](https://developer.android.com/jetpack/compose) and [Kotlin Multiplatform Mobile](https://kotlinlang.org/lp/mobile/).
 - 🔭 I’m currently working on **some of my side projects :P**
 - 👯 I’m looking to collaborate on **anything free and open source**
-- 💬 Ask me about Android and Flutter.
 - 📫 How to reach me **shashanksinghal02@gmail.com**
 - ⚡ Fun fact: I spend almost 2 hours surfing new things on the internet everyday. I love to keep myself updated!!
 
