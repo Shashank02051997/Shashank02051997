@@ -84,14 +84,14 @@ Also from ImliStack: **SunPlot 3D** (free solar planner, extended into a custom 
 
 ### ⭐ Popular open-source libraries
 
-<p align="center">
-  <a href="https://github.com/Shashank02051997/FancyToast-Android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank02051997&repo=FancyToast-Android&hide_border=true&bg_color=F8F6F1&title_color=2F6B4F&icon_color=2F6B4F&text_color=1C1B19" alt="FancyToast-Android" /></a>
-  <a href="https://github.com/Shashank02051997/FancyGifDialog-Android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank02051997&repo=FancyGifDialog-Android&hide_border=true&bg_color=F8F6F1&title_color=2F6B4F&icon_color=2F6B4F&text_color=1C1B19" alt="FancyGifDialog-Android" /></a>
-  <a href="https://github.com/Shashank02051997/LoginUI-Android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank02051997&repo=LoginUI-Android&hide_border=true&bg_color=F8F6F1&title_color=2F6B4F&icon_color=2F6B4F&text_color=1C1B19" alt="LoginUI-Android" /></a>
-  <a href="https://github.com/Shashank02051997/VegetableOrderUI-Android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank02051997&repo=VegetableOrderUI-Android&hide_border=true&bg_color=F8F6F1&title_color=2F6B4F&icon_color=2F6B4F&text_color=1C1B19" alt="VegetableOrderUI-Android" /></a>
-  <a href="https://github.com/Shashank02051997/FancyAlertDialog-Android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank02051997&repo=FancyAlertDialog-Android&hide_border=true&bg_color=F8F6F1&title_color=2F6B4F&icon_color=2F6B4F&text_color=1C1B19" alt="FancyAlertDialog-Android" /></a>
-  <a href="https://github.com/Shashank02051997/WeatherApp-Android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashank02051997&repo=WeatherApp-Android&hide_border=true&bg_color=F8F6F1&title_color=2F6B4F&icon_color=2F6B4F&text_color=1C1B19" alt="WeatherApp-Android" /></a>
-</p>
+| Library | What it does | Stars |
+|---|---|:-:|
+| [**FancyToast-Android**](https://github.com/Shashank02051997/FancyToast-Android) | Styled, customisable Android toasts | ![stars](https://img.shields.io/github/stars/Shashank02051997/FancyToast-Android?style=flat-square&color=2F6B4F&label=%E2%98%85) |
+| [**LoginUI-Android**](https://github.com/Shashank02051997/LoginUI-Android) | Creative login screen designs | ![stars](https://img.shields.io/github/stars/Shashank02051997/LoginUI-Android?style=flat-square&color=2F6B4F&label=%E2%98%85) |
+| [**FancyGifDialog-Android**](https://github.com/Shashank02051997/FancyGifDialog-Android) | Android dialogs with GIF support | ![stars](https://img.shields.io/github/stars/Shashank02051997/FancyGifDialog-Android?style=flat-square&color=2F6B4F&label=%E2%98%85) |
+| [**VegetableOrderUI-Android**](https://github.com/Shashank02051997/VegetableOrderUI-Android) | Ordering app UI in Jetpack Compose | ![stars](https://img.shields.io/github/stars/Shashank02051997/VegetableOrderUI-Android?style=flat-square&color=2F6B4F&label=%E2%98%85) |
+| [**FancyAlertDialog-Android**](https://github.com/Shashank02051997/FancyAlertDialog-Android) | Styled, customisable Android alert dialogs | ![stars](https://img.shields.io/github/stars/Shashank02051997/FancyAlertDialog-Android?style=flat-square&color=2F6B4F&label=%E2%98%85) |
+| [**WeatherApp-Android**](https://github.com/Shashank02051997/WeatherApp-Android) | Kotlin weather app on OpenWeatherMap | ![stars](https://img.shields.io/github/stars/Shashank02051997/WeatherApp-Android?style=flat-square&color=2F6B4F&label=%E2%98%85) |
 
 <p align="center"><a href="https://github.com/Shashank02051997?tab=repositories&sort=stargazers">See all repositories →</a></p>
 
@@ -121,12 +121,7 @@ Also from ImliStack: **SunPlot 3D** (free solar planner, extended into a custom 
 ### 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shashank02051997&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=F8F6F1&title_color=2F6B4F&icon_color=2F6B4F&text_color=1C1B19" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank02051997&hide_border=true&background=F8F6F1&ring=2F6B4F&fire=2F6B4F&currStreakLabel=2F6B4F&sideLabels=1C1B19&currStreakNum=1C1B19&sideNums=1C1B19&dates=6B6A66&stroke=E5E2DA" alt="Contribution streak" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank02051997&bg_color=F8F6F1&color=1C1B19&line=2F6B4F&point=1C1B19&area=true&area_color=2F6B4F&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank02051997&hide_border=true&background=F8F6F1&ring=2F6B4F&fire=2F6B4F&currStreakLabel=2F6B4F&sideLabels=1C1B19&currStreakNum=1C1B19&sideNums=1C1B19&dates=6B6A66&stroke=E5E2DA" alt="Contribution streak" />
 </p>
 
 ---
